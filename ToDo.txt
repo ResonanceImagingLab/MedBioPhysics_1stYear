@@ -1,0 +1,129 @@
+General Features Across Notebooks
+
+    Interactive widgets (e.g., sliders for parameters like frequency, tissue properties)
+
+    Embedded explanation cells to connect code to physics concepts
+
+    Visual outputs (plots, animations) for immediate feedback
+
+    Step-by-step code blocks to build confidence in programming
+
+1. (ongoing) Introduction and how-to
+
+2. Biomechanics - Kinematics
+    Examples:
+    ✅ Simple static model of forces on the human knee during standing or walking
+    ✅ Calculate and visualize bending stress on a simplified "bone" (beam bending simulation)
+    ✅ Compare bone strength under compressive vs. tensile loads using basic equations
+    ✅ Simulate effect of increased body weight on joint forces
+
+    Visualization Tools:
+
+        Matplotlib for free-body diagrams
+
+        Simple animations for joint movement
+
+3. Elasticity and Strength
+
+4. Fluids
+    Examples:
+    ✅ Simulate blood flow through a cylindrical vessel using Poiseuille's Law
+    ✅ Visualize how viscosity and vessel radius affect blood flow rate
+    ✅ Simulate oxygen diffusion through tissue layers using numerical solutions to Fick's Law
+    ✅ Explore how blockages (stenosis) impact blood flow
+
+    Visualization Tools:
+
+        Line plots showing flow rate vs. radius
+
+        Heatmaps showing oxygen concentration gradients
+
+
+5. Fluid dynamics
+
+6. Heat
+
+7. Thermodynamics
+    Examples:
+    ✅ Model body temperature regulation with simple energy balance equations (heat loss via conduction, convection)
+    ✅ Simulate heat transfer through skin and fat layers
+    ✅ Demonstrate temperature gradients in tissue exposed to different environments
+
+    Visualization Tools:
+
+        Interactive sliders to change environmental temperature and observe body heat loss
+
+        Temperature vs. time plots for different conditions
+
+8. Waves
+
+    Examples:
+    ✅ Simulate sound wave propagation through tissue (1D sine waves)
+    ✅ Visualize how frequency affects wavelength and penetration depth
+    ✅ Model basic pulse-echo principle of ultrasound imaging
+    ✅ Compare echolocation frequencies for different animals
+
+    Visualization Tools:
+
+        Real-time wave animations
+
+        Interactive frequency sliders for ultrasound simulation
+
+9. Optics
+
+    Examples:
+    ✅ Simulate light refraction through different media using Snell's Law
+    ✅ Build a ray-tracing model for a simple lens system
+    ✅ Explore how lens shape affects image formation in microscopy
+    ✅ Model contrast and resolution for basic imaging systems
+
+    Visualization Tools:
+
+        Ray diagrams using Matplotlib
+
+        Interactive simulations adjusting focal length or refractive index
+
+10. X-ray/atomic physics
+
+    Examples:
+    ✅ Model attenuation of X-rays through different tissue types (Beer-Lambert Law)
+    ✅ Compare attenuation in bone vs. soft tissue
+    ✅ Visualize how material thickness affects X-ray intensity reaching a detector
+
+    Visualization Tools:
+
+        Exponential decay plots of X-ray intensity
+
+        Interactive tissue selection and thickness adjustment
+
+11. Nuclear physics
+
+    Examples:
+    ✅ Simulate radioactive decay (Monte Carlo or deterministic approach)
+    ✅ Visualize decay curves for different isotopes used in PET or SPECT
+    ✅ Basic image reconstruction concept using simplified grid detectors
+    ✅ Demonstrate how decay half-life impacts diagnostic imaging timing
+
+    Visualization Tools:
+
+        Decay curve plots with adjustable half-life
+
+        Grid heatmaps showing simulated detector counts
+
+12. Radiation Biology
+
+13. MRI
+
+    Examples:
+    ✅ Visualize spin precession in a magnetic field
+    ✅ Simulate T1 and T2 relaxation curves
+    ✅ Model basic image contrast based on relaxation properties of different tissues
+    ✅ Interactive exploration of field strength and its effect on signal properties
+
+    Visualization Tools:
+
+        Animations of spin vectors
+
+        Relaxation time plots
+
+        Image contrast simulations with adjustable parameters
