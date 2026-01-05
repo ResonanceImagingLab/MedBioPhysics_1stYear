@@ -1,7 +1,4 @@
-# MedBioPhysics_1stYear
-Simulating Life: Physics for Medicine and Biology with Python
-
-# Medical Biophysics — Jupyter Notebook Companion (OER)
+# Simulating Life: Physics for Medicine and Biology — Jupyter Notebook Companion (OER)
 
 ⚠️ **Work in Progress**  
 This repository is actively under development. Content, examples, and notebooks may change as the course evolves.
@@ -16,7 +13,7 @@ Your feedback is valuable and helps improve this resource for everyone.
 
 ## 📘 What is this repository?
 
-This repository contains **Jupyter notebooks that accompany the open educational resource (OER) textbook** for *Physics in Medicine & Biology / Medical Biophysics*.
+This repository contains **Jupyter notebooks that accompany the open educational resource (OER) textbook** for *Physics in Medicine & Biology*.
 
 The notebooks are designed to:
 - Reinforce key concepts from the textbook
@@ -32,7 +29,7 @@ You do **not** need to be a programmer to use these notebooks.
 
 - Each notebook corresponds to a **chapter or subsection** of the textbook  
 - Notebooks are scaffolded from **very beginner-friendly** to more advanced (optional) explorations  
-- Advanced code is always **pre-filled** — you are never expected to write complex code from scratch  
+- Advanced code is always **pre-filled** — you are never expected to write complex code from scratch
 
 ---
 
